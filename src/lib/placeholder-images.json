@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-abstract",
+      "description": "Abstract data visualization for fintech dashboard",
+      "imageUrl": "https://picsum.photos/seed/vyraxis-hero/1200/800",
+      "imageHint": "abstract network"
+    },
+    {
+      "id": "analyst-avatar",
+      "description": "Professional compliance analyst avatar",
+      "imageUrl": "https://picsum.photos/seed/analyst/100/100",
+      "imageHint": "professional avatar"
+    }
+  ]
+}
