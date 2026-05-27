@@ -5,7 +5,7 @@
 Vyraxis Intelligence is a Next.js web application prototype built for financial crime investigation, compliance analysis, and graph-based risk monitoring. It combines a live dashboard, entity relationship graph, AI-assisted investigation flows, and a conversational Compliance Copilot.
 
 The application is driven by a single shared data model, so dashboard metrics, alert lists, graph analysis, and AI prompts all derive from the same mock dataset. 
-Demo: https://vyraxis.netlify.app/
+You can view the demo here: https://vyraxis.netlify.app/
 
 ## Key Features
 
